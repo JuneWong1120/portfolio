@@ -1,0 +1,7 @@
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+
+npx create-next-app@latest
+
+
+cd ur folder first , then npm run dev
